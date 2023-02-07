@@ -111,13 +111,14 @@ header a {
     text-align: center;
     margin-top: 40px;
     margin-bottom: 70px;
+    padding: 20px 20px;
     /* Debug */
     /* height: 150px;
     width: 350px; */
 }
 
 .title {
-    font-size: 2rem;
+    font-size: 2.5rem;
     padding: 80px 0;
     margin-top: 50px;
 }
@@ -168,6 +169,7 @@ header a {
 }
 
 .paragraph {
+    padding: 20px 20px;
     /* Debug */
     /* height: 200px;
     width: 500px; */
@@ -192,16 +194,17 @@ header a {
 
 h2 {
     margin-bottom: 30px;
-    font-size: 2rem;
+    font-size: 2.3rem;
 }
 
 p {
-    font-size: 1rem;
+    font-size: 1.3rem;
 }
 
 /* Third section */
 
  .third {
+    padding: 20px 20px;
     background-color: #F6F6F6;
     /* background-color: lightseagreen;
     height: 300px;
