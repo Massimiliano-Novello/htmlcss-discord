@@ -151,38 +151,57 @@ header a {
 
 /* Second section */
 .content {
+    background-color: #FFFFFF;
+    padding: 30px 0;
     /* Debug */
+    /* background-color: lightseagreen;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.paragraph {
+    /* Debug */
+    /* height: 200px;
+    width: 500px; */
+}
+
+.large-col {
+    width: 70%;
+    /* debug */
+    /* height: 200px;
+    background-color: blue;
+    border: 2px black dashed; */ */
+}
+
+.small-col {
+    width: 30%;
+    padding: 30px 0;
+    /* Debug */
+    /* height: 200px;
+    background-color: gray;
+    border: 2px black dashed; */
+}
+
+h2 {
+    margin-bottom: 30px;
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+/* Third section */
+
+.content-third {
     background-color: lightseagreen;
     height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
-.paragraph {
-    display: flex;
-    /* Debug */
-    height: 200px;
-    width: 500px;
-}
-
-.left {
-    /* debug */
-    width: 65%;
-    height: 200px;
-    background-color: blue;
-    border: 2px black dashed;
-}
-
-.right {
-    /* Debug */
-    width: 35%;
-    height: 200px;
-    background-color: gray;
-    border: 2px black dashed;
-}
-
-/* Third section */
 
 .second {
     /* debug */
