@@ -12,6 +12,10 @@ img {
 
 /* GENERAL */
 
+body {
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 .container {
     width: 80%;
     max-width: 1100px;
@@ -117,13 +121,31 @@ header a {
     font-size: 1.2rem;
 }
 
+/* Link */
 .browser {
     padding: 10px 0;
 }
 
 .browser a {
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    line-height: 50px;
+    padding: 10px;
+}
+
+.download {
+    margin-right: 20px;
+    background-color: white;
+    color: black;
+    height: 50px;
+    border-radius: 20px 20px;
+} 
+
+.open {
+    height: 50px;
+    background-color: #272B2E;
+    color: white;
+    border-radius: 20px 20px;
 }
 
 
